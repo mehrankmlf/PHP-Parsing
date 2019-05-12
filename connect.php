@@ -1,11 +1,11 @@
 <?php
 $server="localhost";
 
-$user="gravitya";
+$user="cpanelUserName";
 
-$pass="Mehran401045235";
+$pass="CpanelPassWord";
 
-$dbname="gravitya_digikala";
+$dbname="DBName";
 
 
 $dsn="mysql:host=$server;dbname=$dbname";
